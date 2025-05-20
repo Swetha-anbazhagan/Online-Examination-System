@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f218143-7858-451e-aedf-519d8d0583ef)# Online-Examination-System
+
 # Reg No:212224040343
 # Name:Swetha A
 # Date:23/04/2025
